@@ -1,0 +1,5 @@
+Why px padding is less accessible than rem
+
+The project-card padding was changed from 1.5rem to 24px as required by the exercise. With the default root font size, both values look the same because 1.5 × 16px = 24px.
+
+However, rem is relative to the root font size. If a user increases the browser’s default text size, rem-based spacing grows with the text and helps preserve comfortable proportions. A fixed px value does not scale in the same way, so enlarged text can feel cramped inside the card. For this reason, rem is usually the more accessible choice for spacing that should adapt to a user’s font-size preferences.
