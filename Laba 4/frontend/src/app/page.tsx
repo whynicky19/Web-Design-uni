@@ -108,7 +108,7 @@ export default function HomePage() {
 
       <main id="top">
         <section className="hero">
-          <p className="label">Coffee atelier in Almaty</p>
+          <p className="label">Coffee atelier in Petropavl</p>
           <h1>Simple goods for a better coffee break.</h1>
           <p>
             Fresh coffee, fragrant tea, and useful brewing tools for your
@@ -170,7 +170,7 @@ export default function HomePage() {
           <p className="label">About us</p>
           <h2>Made for calm everyday moments.</h2>
           <p>
-            Steppe &amp; Steam is a small Almaty store. We select coffee, tea,
+            Steppe &amp; Steam is a small Petropavl store. We select coffee, tea,
             and brewing tools that are simple to use and easy to enjoy.
           </p>
         </section>
@@ -178,7 +178,7 @@ export default function HomePage() {
 
       <footer className="site-footer">
         <strong>Steppe &amp; Steam</strong>
-        <span>© 2026</span>
+        <span>© 2026 by whynicky</span>
       </footer>
     </>
   );
